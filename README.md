@@ -16,11 +16,11 @@ _This is my first webpage using HTML_
 
 ## Known Bugs
 
-_No bugs that have been founf_
+_No bugs that have been found_
 
 ## Support and contact details
 
-_Contact Austin Barr at austinbarr@protonmail.com _
+_Please contact Austin Barr at austinbarr@protonmail.com if any bugs are found_
 
 ## Technologies Used
 
