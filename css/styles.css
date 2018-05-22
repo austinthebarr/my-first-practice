@@ -1,0 +1,20 @@
+body {
+  line-height: 1.2;
+  color: #F5DEB3;
+  background-color: #00283f;
+  font-family: raleway;
+}
+
+img {
+  width: 150px;
+  height: 100px;
+
+}
+
+div {
+  background-image: url("seattle.jpg");
+  height: 150px;
+  background-repeat: no-repeat;
+  background-position: cover;
+
+}
